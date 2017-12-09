@@ -1,0 +1,22 @@
+-----------How To run the program-------------
+
+There are some data libraries and softwares which are need to be installed before hand. They are as following:
+
+-NetLogo 6.0.2
+-R 3.4.0
+-Spyder IDE or PyCharm
+-WinPython 3.6.3
+-Download and install PypeR and matplotlib library from respective sourceforge or github folders
+ 
+-The file Heat diffusion should be saved in Netlogo in the directory by making a small folder called.
+("/models/Sample Models/demo/Heat Diffusion.nlogo")
+
+-The python file heat.py can be saved and called from the root directory where winpython is installed,
+Or it can be saved as per user convenience.
+
+Note: If everything is properly setup the netlogo will run by itself, no need to tick any boxes or choose any slider
+values
+
+-I have taken a simple procedure of taking only heat diffusivity on the plotting curve.
+Hence, It will be showing a plot against thickness of layer and diffusivity while printing out the heat diffusivity
+values at different time step on the kernel.
